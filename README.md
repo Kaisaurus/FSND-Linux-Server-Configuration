@@ -34,7 +34,9 @@ Software installed through pip:
 - virtualenv
 
 Configuration changes made
-- Linux system users added
+- Linux system users added 
+- Sudo permisions given for grader
+- SSH authentication setup for grader
 - Changed UFW (Uncomplicated Firewall) according to assignment requirements
 - psql users added
 - psql database created
@@ -51,4 +53,4 @@ Files modified
 - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 - www.stackoverflow.com
 - Udacity discussions forum
-- https://github.com/skh/fsnd-linux-server-config
+- https://github.com/skh/fsnd-linux-server-config (reference from Udacity discussions)
